@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sai Sreekar Kanaparthy</h1>
 <h3 align="center">A passionate programmer from Hyderabad, India</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time 🛠️</p>
+<p align="center">I am deeply passionate about the transformative power of computer technology 🌐. Witnessing its profound impact on society has fueled my fascination from an early age, inspiring me to pursue a career in software engineering. My journey in this field has been marked by an unwavering enthusiasm for innovation and a commitment to continuous growth 🛠️.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=kanaparthysaisreekar&label=Profile%20views&color=0e75b6&style=flat" alt="kss" /> 
 
