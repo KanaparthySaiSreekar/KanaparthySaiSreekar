@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Sai Sreekar Kanaparthy</h1>
+<h1 align="center">Sai Sreekar Kanaparthy</h1>
 <h3 align="center">A passionate programmer from Hyderabad, India</h3>
 <p align="center">I am deeply passionate about the transformative power of Computer Technology 🌐. Witnessing its profound impact on society has fueled my fascination from an early age, inspiring me to pursue a career in software engineering. My journey in this field has been marked by an unwavering enthusiasm for innovation and a commitment to continuous growth 🛠️.</p>
 <p align="center"> 
